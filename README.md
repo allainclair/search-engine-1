@@ -1,8 +1,9 @@
 ## Search Engine API
 
 - This repo has a [System Design](system-design.md) and [Diagram](diagram.png) for the system design.
-- [main.py](main.py) is the API.
-u[openapi.json](openapi.json) is the OpenAPI spec.
+Read the [System Design](system-design.md) along with the [Diagram](diagram.png) to understand the system.
+- [main.py](main.py) is the FastAPI App.
+- [openapi.json](openapi.json) is the OpenAPI spec.
 
 
 ## AI usage for this project
